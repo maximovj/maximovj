@@ -1,11 +1,9 @@
 ![Coding](https://th.bing.com/th/id/R.cb0d139e178018df8b3e778369395ac7?rik=qqu0kizpNPOswQ&pid=ImgRaw)
 
-# Hi ?‘‹, I'm Victor J.
+# Hi 👋, I'm Victor J.
 ### Full Stack Developer
 
 <img align="right" alt="Coding" width="260" height="260" src="https://www.meme-arsenal.com/memes/4dc5c2c0a73fb9ec553c3f93703a02ad.jpg">
-
-# About Me:
 
 - 🛠️ I’m currently working on **BMTLC**
 - 📚 I’m currently learning **Flutter and Python**
