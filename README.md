@@ -1,3 +1,5 @@
+![Coding](https://th.bing.com/th/id/R.cb0d139e178018df8b3e778369395ac7?rik=qqu0kizpNPOswQ&pid=ImgRaw)
+
 # About Me:
 Hola mucho gusto, yo me llamo Victor Jesus, soy un chico apasionado con la nuevas tecnologías, me gusta mucho aprender, me considero alguien autodidacta. Durante mi trabajo de ayudante de cocina he aprendido sobre la disciplina, la confianza, el trabajo en equipo y <br> 
 sobre todo a valorar el esfuerzo cada uno como individuo aporta por un objetivo en común. 
