@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://programmerauditore.github.io/portafolio/](https://programmerauditore.github.io/portafolio/)
 
-- ⚡ Fun fact **I crazy programming and learn things new**
+- ⚡ Fun fact **I learn new things very quickly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
