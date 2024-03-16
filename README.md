@@ -1,10 +1,20 @@
 ![Coding](https://th.bing.com/th/id/R.cb0d139e178018df8b3e778369395ac7?rik=qqu0kizpNPOswQ&pid=ImgRaw)
 
+# Hi ?‘‹, I'm Victor J.
+### Full Stack Developer
+
+<img align="right" alt="Coding" width="260" height="260" src="https://www.meme-arsenal.com/memes/4dc5c2c0a73fb9ec553c3f93703a02ad.jpg">
+
 # About Me:
-Hola mucho gusto, yo me llamo Victor Jesus, soy un chico apasionado con la nuevas tecnologías, me gusta mucho aprender, me considero alguien autodidacta. Durante mi trabajo de ayudante de cocina he aprendido sobre la disciplina, la confianza, el trabajo en equipo y <br> 
-sobre todo a valorar el esfuerzo cada uno como individuo aporta por un objetivo en común. 
-Atte.
-Victor J.
+
+- 🛠️ I’m currently working on **BMTLC**
+- 📚 I’m currently learning **Flutter and Python**
+- 💻 All of my projects are available at [GitHub Repositories](https://github.com/ProgrammerAuditore?tab=repositories)
+- ✍️ I regularly write articles on [Victor Jesus Blog](https://victor-jesus-blog.blogspot.com)
+- 💬 Ask me about **React, Laravel, and MySQL**
+- 📧 How to reach me: maximovj@outlook.com
+- 🌐 Know about my experiences [Portfolio](https://programmerauditore.github.io/portafolio/)
+- ⚡ Fun fact: **I learn new things very quickly**
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maximovj) 
