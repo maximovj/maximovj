@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hola mucho gusto, yo me llamo Victor Jesus, soy un chico apasionado con la nuevas tecnologías, me gusta mucho aprender, me considero alguien autodidacta. <br>
-Durante mi trabajo de ayudante de cocina he aprendido sobre la disciplina, la confianza, el trabajo en equipo y <br> 
+Hola mucho gusto, yo me llamo Victor Jesus, soy un chico apasionado con la nuevas tecnologías, me gusta mucho aprender, me considero alguien autodidacta. Durante mi trabajo de ayudante de cocina he aprendido sobre la disciplina, la confianza, el trabajo en equipo y <br> 
 sobre todo a valorar el esfuerzo cada uno como individuo aporta por un objetivo en común. 😁👍
 
 Atte.
