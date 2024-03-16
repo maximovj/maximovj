@@ -1,4 +1,4 @@
-<img alt="Coding" width="100%" src="https://th.bing.com/th/id/R.cb0d139e178018df8b3e778369395ac7?rik=qqu0kizpNPOswQ&pid=ImgRaw&r=0" />
+<img alt="Coding" width="100%" heigt="60%" src="https://th.bing.com/th/id/R.cb0d139e178018df8b3e778369395ac7?rik=qqu0kizpNPOswQ&pid=ImgRaw&r=0" />
 
 <h1 align="center">Hi 👋, I'm Victor J.</h1>
 <h3 align="center">Full Stack Developer</h3>
