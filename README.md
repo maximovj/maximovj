@@ -3,6 +3,8 @@
 # Hola 👋, Soy Victor J.
 ### Desarrollador Full Stack
 
+### Sobre mí
+
 <img align="right" alt="Coding" width="260" height="260" src="https://www.meme-arsenal.com/memes/4dc5c2c0a73fb9ec553c3f93703a02ad.jpg">
 
 - 🛠️ Actualmente estoy trabajando en **BMTLC**
