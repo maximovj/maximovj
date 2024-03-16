@@ -1,4 +1,4 @@
-![Coding](https://th.bing.com/th/id/R.cb0d139e178018df8b3e778369395ac7?rik=qqu0kizpNPOswQ&pid=ImgRaw)
+<img src="https://th.bing.com/th/id/R.cb0d139e178018df8b3e778369395ac7?rik=qqu0kizpNPOswQ&pid=ImgRaw" alt="Coding" width="100%" height="40%">
 
 # Hola 👋, Soy Victor J.
 ### Desarrollador Full Stack
