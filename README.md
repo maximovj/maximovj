@@ -1,9 +1,9 @@
-<img alt="Coding" width="100%" heigth="40%" src="https://th.bing.com/th/id/R.cb0d139e178018df8b3e778369395ac7?rik=qqu0kizpNPOswQ&pid=ImgRaw&r=0" />
+<img alt="Coding" width="100%" height="40%" src="https://th.bing.com/th/id/R.cb0d139e178018df8b3e778369395ac7?rik=qqu0kizpNPOswQ&pid=ImgRaw&r=0" />
 
 <h1 align="center">Hi 👋, I'm Victor J.</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<img align="right" alt="Coding Meme" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.meme-arsenal.com/memes/4dc5c2c0a73fb9ec553c3f93703a02ad.jpg)">
+<img align="right" alt="Coding Meme" width="400" src="[https://www.meme-arsenal.com/memes/4dc5c2c0a73fb9ec553c3f93703a02ad.jpg](https://www.meme-arsenal.com/memes/4dc5c2c0a73fb9ec553c3f93703a02ad.jpg)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
