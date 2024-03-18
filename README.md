@@ -8,13 +8,14 @@
 <img align="right" alt="Coding" width="260" height="260" src="https://www.meme-arsenal.com/memes/4dc5c2c0a73fb9ec553c3f93703a02ad.jpg">
 
 - 🛠️ Actualmente estoy trabajando en **BMTLC**
-- 📚 Actualmente estoy aprendiendo **Flutter and Python**
+- 📚 Actualmente estoy aprendiendo **Flutter y Python**
 - 💻  Todos mis proyectos están disponibles en [GitHub Repositories](https://github.com/ProgrammerAuditore?tab=repositories)
 - ✍️ Escribo ocasionalmente artículos en [Victor Jesus Blog](https://victor-jesus-blog.blogspot.com)
-- 💬 Pregúntame sobre **React, Laravel, and MySQL**
+- 💬 Pregúntame sobre **React, Vue, Laravel, Shell, Linux y MySQL**
 - 📧 Cómo contactarme: maximovj@outlook.com
-- 🌐 Conoce sobre mis experiencias [Portfolio](https://programmerauditore.github.io/portafolio/)
-- ⚡ Dato curioso: Aprendo nuevas cosas muy rápidamente **Me encanta programar y aprendo nuevas cosas muy rápidamente**
+- 🌐 Conoce sobre mis experiencias [Portfolio](https://maximovj.github.io/portafolio-web)
+- ⚡ Dato curioso: **Me encanta programar y aprendo cosas nuevas muy rápidamente**
+- 😀 Mis aptitudes son: **Comprometido, Comunicación Efectiva, Responsable, Honestidad, Autodidacta, Proactivo, Analítico**
 
 ## Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maximovj) 
