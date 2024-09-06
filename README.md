@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="260" height="260" src="https://www.meme-arsenal.com/memes/4dc5c2c0a73fb9ec553c3f93703a02ad.jpg">
 
 - 📚 Actualmente estoy aprendiendo **Flutter y Python**
-- 💻  Otros proyectos disponibles en [GitHub Repositories](https://github.com/ProgrammerAuditore?tab=repositories)
+- 💻  Otros proyectos disponibles en [GitHub Alternativa](https://github.com/ProgrammerAuditore?tab=repositories)
 - ✍️ Escribo ocasionalmente artículos en [Victor Jesus Blog](https://victor-jesus-blog.blogspot.com)
 - 💬 Pregúntame sobre **React, Vue, Laravel, Shell, Linux y MySQL**
 - 📧 Cómo contactarme: maximovj@outlook.com
