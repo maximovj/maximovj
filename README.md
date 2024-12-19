@@ -12,7 +12,6 @@
 - ✍️ Escribo ocasionalmente artículos en [Victor Jesus Blog](https://victor-jesus-blog.blogspot.com)
 - 💬 Pregúntame sobre **React, Vue, Laravel, Shell, Linux y MySQL**
 - 📧 Cómo contactarme: maximovj@outlook.com
-- 🌐 Conoce sobre mis experiencias [Portfolio](https://maximovj.github.io/portafolio-web)
 - ⚡ Dato curioso: **Me encanta programar y aprendo cosas nuevas muy rápidamente**
 - 😀 Mis aptitudes son: **Comprometido, Comunicación Efectiva, Responsable, Honestidad, Autodidacta, Proactivo, Analítico**
 
