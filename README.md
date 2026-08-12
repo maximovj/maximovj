@@ -94,9 +94,9 @@
 - 🔗 **Microservicios** - Arquitectura y patrones de diseño
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maximovj&theme=city_light&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=maximovj&theme=city_light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maximovj&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=maximovj&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=maximovj&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maximovj&layout=compact&theme=tokyonight)
 
 ---
 
